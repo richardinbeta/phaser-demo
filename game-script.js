@@ -9,6 +9,9 @@ var config = {
             debug: false
         }
     },
+    scale: {
+        mode: Phaser.Scale.FIT
+    },
     scene: {
         preload: preload,
         create: create,
