@@ -185,7 +185,3 @@ function hitBomb (player, bomb)
     gameOver = true;
 }
 
-</script>
-
-</body>
-</html>
